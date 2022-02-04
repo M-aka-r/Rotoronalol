@@ -1,1 +1,53 @@
 
+body{
+  font-family: sans-serif;
+}
+h1{
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin:0px;
+  padding:10px;
+  font-size:50px;
+}
+p{
+  font-size: 25px;
+}
+#hol{
+  font-size: 28px;
+  text-align: center;
+}
+#fol{
+  width:1600px;
+  height:600px ;
+}
+nav{
+  background-color: black;
+  padding:10px ;
+}
+nav a{
+  text-decoration:none;
+  color: white;
+  padding:80px;
+  font-size: 30px;
+}
+h2{
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin:0px;
+  padding:10px;
+  font-size: 35px;
+}
+ul{
+  font-size:25px;
+}
+.has{
+  width: 781px;
+  height:350px;
+}
+footer a{
+  margin:520px ;
+  font-size: 40px;
+  text-decoration: none;
+}
